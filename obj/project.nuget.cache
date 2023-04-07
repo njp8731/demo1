@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WUMuIWumAq93cuiDbJI90ADDmuS7RshcAqubU+R1fHEZC9a71DlfYdg27FVIHEVqC3D8HjfO/YZhrwGlFf+HYA==",
+  "success": true,
+  "projectFilePath": "D:\\CENTENNIAL\\1. Summer 2022\\Programming 2\\Lab3\\Lab3_301215678.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naisarg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

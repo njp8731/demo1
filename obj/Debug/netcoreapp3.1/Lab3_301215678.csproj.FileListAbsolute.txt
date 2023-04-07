@@ -1,0 +1,42 @@
+D:\Winter 2022\COMP 100 C#\Lab3_301215678\obj\Debug\netcoreapp3.1\Lab3_301215678.csproj.AssemblyReference.cache
+D:\Winter 2022\COMP 100 C#\Lab3_301215678\obj\Debug\netcoreapp3.1\Lab3_301215678.GeneratedMSBuildEditorConfig.editorconfig
+D:\Winter 2022\COMP 100 C#\Lab3_301215678\obj\Debug\netcoreapp3.1\Lab3_301215678.AssemblyInfoInputs.cache
+D:\Winter 2022\COMP 100 C#\Lab3_301215678\obj\Debug\netcoreapp3.1\Lab3_301215678.AssemblyInfo.cs
+D:\Winter 2022\COMP 100 C#\Lab3_301215678\obj\Debug\netcoreapp3.1\Lab3_301215678.csproj.CoreCompileInputs.cache
+D:\Winter 2022\COMP 100 C#\Lab3_301215678\bin\Debug\netcoreapp3.1\Lab3_301215678.exe
+D:\Winter 2022\COMP 100 C#\Lab3_301215678\bin\Debug\netcoreapp3.1\Lab3_301215678.deps.json
+D:\Winter 2022\COMP 100 C#\Lab3_301215678\bin\Debug\netcoreapp3.1\Lab3_301215678.runtimeconfig.json
+D:\Winter 2022\COMP 100 C#\Lab3_301215678\bin\Debug\netcoreapp3.1\Lab3_301215678.runtimeconfig.dev.json
+D:\Winter 2022\COMP 100 C#\Lab3_301215678\bin\Debug\netcoreapp3.1\Lab3_301215678.dll
+D:\Winter 2022\COMP 100 C#\Lab3_301215678\bin\Debug\netcoreapp3.1\Lab3_301215678.pdb
+D:\Winter 2022\COMP 100 C#\Lab3_301215678\obj\Debug\netcoreapp3.1\Lab3_301215678.dll
+D:\Winter 2022\COMP 100 C#\Lab3_301215678\obj\Debug\netcoreapp3.1\Lab3_301215678.pdb
+D:\Winter 2022\COMP 100 C#\Lab3_301215678\obj\Debug\netcoreapp3.1\Lab3_301215678.genruntimeconfig.cache
+D:\Lab3\bin\Debug\netcoreapp3.1\Lab3_301215678.exe
+D:\Lab3\bin\Debug\netcoreapp3.1\Lab3_301215678.deps.json
+D:\Lab3\bin\Debug\netcoreapp3.1\Lab3_301215678.runtimeconfig.json
+D:\Lab3\bin\Debug\netcoreapp3.1\Lab3_301215678.runtimeconfig.dev.json
+D:\Lab3\bin\Debug\netcoreapp3.1\Lab3_301215678.dll
+D:\Lab3\bin\Debug\netcoreapp3.1\Lab3_301215678.pdb
+D:\Lab3\obj\Debug\netcoreapp3.1\Lab3_301215678.csproj.AssemblyReference.cache
+D:\Lab3\obj\Debug\netcoreapp3.1\Lab3_301215678.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab3\obj\Debug\netcoreapp3.1\Lab3_301215678.AssemblyInfoInputs.cache
+D:\Lab3\obj\Debug\netcoreapp3.1\Lab3_301215678.AssemblyInfo.cs
+D:\Lab3\obj\Debug\netcoreapp3.1\Lab3_301215678.csproj.CoreCompileInputs.cache
+D:\Lab3\obj\Debug\netcoreapp3.1\Lab3_301215678.dll
+D:\Lab3\obj\Debug\netcoreapp3.1\Lab3_301215678.pdb
+D:\Lab3\obj\Debug\netcoreapp3.1\Lab3_301215678.genruntimeconfig.cache
+D:\CENTENNIAL\1. Summer 2022\Programming 2\Lab3\bin\Debug\netcoreapp3.1\Lab3_301215678.exe
+D:\CENTENNIAL\1. Summer 2022\Programming 2\Lab3\bin\Debug\netcoreapp3.1\Lab3_301215678.deps.json
+D:\CENTENNIAL\1. Summer 2022\Programming 2\Lab3\bin\Debug\netcoreapp3.1\Lab3_301215678.runtimeconfig.json
+D:\CENTENNIAL\1. Summer 2022\Programming 2\Lab3\bin\Debug\netcoreapp3.1\Lab3_301215678.runtimeconfig.dev.json
+D:\CENTENNIAL\1. Summer 2022\Programming 2\Lab3\bin\Debug\netcoreapp3.1\Lab3_301215678.dll
+D:\CENTENNIAL\1. Summer 2022\Programming 2\Lab3\bin\Debug\netcoreapp3.1\Lab3_301215678.pdb
+D:\CENTENNIAL\1. Summer 2022\Programming 2\Lab3\obj\Debug\netcoreapp3.1\Lab3_301215678.csproj.AssemblyReference.cache
+D:\CENTENNIAL\1. Summer 2022\Programming 2\Lab3\obj\Debug\netcoreapp3.1\Lab3_301215678.GeneratedMSBuildEditorConfig.editorconfig
+D:\CENTENNIAL\1. Summer 2022\Programming 2\Lab3\obj\Debug\netcoreapp3.1\Lab3_301215678.AssemblyInfoInputs.cache
+D:\CENTENNIAL\1. Summer 2022\Programming 2\Lab3\obj\Debug\netcoreapp3.1\Lab3_301215678.AssemblyInfo.cs
+D:\CENTENNIAL\1. Summer 2022\Programming 2\Lab3\obj\Debug\netcoreapp3.1\Lab3_301215678.csproj.CoreCompileInputs.cache
+D:\CENTENNIAL\1. Summer 2022\Programming 2\Lab3\obj\Debug\netcoreapp3.1\Lab3_301215678.dll
+D:\CENTENNIAL\1. Summer 2022\Programming 2\Lab3\obj\Debug\netcoreapp3.1\Lab3_301215678.pdb
+D:\CENTENNIAL\1. Summer 2022\Programming 2\Lab3\obj\Debug\netcoreapp3.1\Lab3_301215678.genruntimeconfig.cache
